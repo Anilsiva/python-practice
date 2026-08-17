@@ -27,6 +27,10 @@ length_rec, width_rec  = rectangle_dimensions
 area_rec = length_rec * width_rec
 print (area_rec)
 
+# Write a program that checks if a given element exists in a tuple.
+tuple_1 = (1,3,2,58,7,"python","swethanil",48)
+tuple_2 = "swethanil" in tuple_1
+print(tuple_2)
     
 
 
